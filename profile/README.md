@@ -20,6 +20,6 @@
 
 <div align="center">
   <a href="https://x.com/BABELBlOCKCHAIN"><b>Follow on Twitter</b></a><br>
-  <a href="https://discord.gg/XeRnxUx3"><b>JOIN our Discord</b></a><br>
+  <a href="https://discord.gg/uehYmgWQ"><b>JOIN our Discord</b></a><br>
   <a href="https://t.me/BABEL_AGI_BLOCKCHAIN"><b>JOIN our Telegram</b></a>
 </div>
