@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://babel-web.vercel.app/"><b>BABEL</b></a> –
-  <a href="https://metalanguage.notion.site/BABEL-AGI-d9d6572ac4c543679ec87c93a7a20c1f"><b>White Paper</b></a>
+  <a href="https://babel-agi-blockchain.notion.site/BABEL-Skyward-Plan-Open-source-AGI-174c09fee3b781a6b07fea417ed6983a"><b>White Paper</b></a>
 </div>
 
 <div align="center">
